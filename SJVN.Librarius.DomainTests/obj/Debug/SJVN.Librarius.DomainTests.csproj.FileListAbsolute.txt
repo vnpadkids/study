@@ -1,0 +1,13 @@
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\SJVN.Librarius.DomainTests.dll
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\SJVN.Librarius.DomainTests.pdb
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\obj\Debug\SJVN.Librarius.DomainTests.csprojResolveAssemblyReference.cache
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\obj\Debug\SJVN.Librarius.DomainTests.dll
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\obj\Debug\SJVN.Librarius.DomainTests.pdb
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\Castle.Core.dll
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\Moq.dll
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\SJVN.Librarius.Domain.dll
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\EntityFramework.dll
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\SJVN.Librarius.Domain.pdb
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\Castle.Core.xml
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\Moq.xml
+D:\SJVN\Librarius\Sources\SJVN.Librarius.DomainTests\bin\Debug\EntityFramework.xml
